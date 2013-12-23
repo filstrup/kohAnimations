@@ -33,7 +33,7 @@ image.onload = function(){
         ani3.endCol = 3;
         ani3.endRow = 1;
         ani3.fps = ms;
-        ani3.loop='reverse';
+        //ani3.loop='reverse';
 
         animationManager.cols = xSprites - 1;
         animationManager.rows = ySprites - 1;
